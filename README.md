@@ -56,6 +56,13 @@ LibraSys is a comprehensive Library Management System designed to streamline the
 <br>
 <em>Admin Home</em>
 </p>
+
+<p>
+<img src="https://github.com/gtm20/LibraSys/assets/115064011/4c9e0c58-f613-41b8-b9b5-8450f8fa05da">
+ <br>
+  <em>Librarian</em>
+</p>
+
 <br>
 <p>
 <img src="https://github.com/gtm20/LibraSys/assets/115064011/28f97b40-3fe3-420f-9aee-a1618dd56afd">
