@@ -1,3 +1,8 @@
+
+
+![image](https://github.com/gtm20/LibraSys/assets/115064011/51ad55cb-e9cf-4837-85be-189f2af587b3)
+
+
 # LibraSys - Library Management System
 
 ## Overview
@@ -23,11 +28,10 @@ LibraSys is a comprehensive Library Management System designed to streamline the
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/gtm20/LibraSys.git`
-2. Navigate to the project directory: `cd LibraSys`
-3. Install dependencies
-4. Set up the database
-5. Start the server
-6. Access the application at http://localhost:8080/index.html
+2. Import the project into Eclipse IDE.
+3. Configure the MySQL database settings
+4. Deploy the project on your local server: Apache Tomcat
+5. Access the application at http://localhost:8080/LibraSys/index.html
 
 ## Usage
 
@@ -35,6 +39,9 @@ LibraSys is a comprehensive Library Management System designed to streamline the
 2. Add books to the catalog and update their availability status.
 3. Patrons can search for books, borrow, and return them.
 4. Keep track of overdue books and manage reservations.
+
+
+##Screenshots
 
 
 ## License
