@@ -27,7 +27,7 @@ LibraSys is a comprehensive Library Management System designed to streamline the
 3. Install dependencies
 4. Set up the database
 5. Start the server
-6. Access the application at [http://localhost:8080/index.html
+6. Access the application at http://localhost:8080/index.html
 
 ## Usage
 
