@@ -56,28 +56,32 @@ LibraSys is a comprehensive Library Management System designed to streamline the
 <br>
 <em>Admin Home</em>
 </p>
+<br>
 <p>
 <img src="https://github.com/gtm20/LibraSys/assets/115064011/28f97b40-3fe3-420f-9aee-a1618dd56afd">
 
 </p>
+<br>
+
 <p>
 <img src="https://github.com/gtm20/LibraSys/assets/115064011/32fc8009-c315-45fb-920c-931c7811a595">
 </p>
+<br>
 <img src="https://github.com/gtm20/LibraSys/assets/115064011/e3d64824-7013-452f-b152-ad5ba89ac363">
-
+<br>
 <img src="https://github.com/gtm20/LibraSys/assets/115064011/617dd5be-e78c-4e10-8370-11c5b6b8b123">
-
+<br>
 
 <img src="https://github.com/gtm20/LibraSys/assets/115064011/cdfe86ed-5edc-4606-b7d4-bbff453d3fb2">
-
+<br>
 
 <img src="https://github.com/gtm20/LibraSys/assets/115064011/082cb3ea-d6bb-4a8e-acd9-b47f3bd7b623">
-
+<br>
 
 <img src="https://github.com/gtm20/LibraSys/assets/115064011/b8142226-07cb-4915-ae59-f5098fa294fd">
-
+<br>
 <img src="https://github.com/gtm20/LibraSys/assets/115064011/d2d92e57-7a08-42a1-aa7d-2e3368167785">
-
+<br>
 <img src="https://github.com/gtm20/LibraSys/assets/115064011/0253c5ee-c12a-4471-8ce2-a5040fe49243">
 
 
