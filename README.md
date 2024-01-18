@@ -41,7 +41,18 @@ LibraSys is a comprehensive Library Management System designed to streamline the
 4. Keep track of overdue books and manage reservations.
 
 
-##Screenshots
+## Screenshots
+
+<p align="center">
+
+<img src="https://github.com/gtm20/LibraSys/assets/115064011/6dd8e853-628d-4098-8f11-18655657c1df" alt="AdminHome">
+
+
+
+  
+<br>
+<em>Home Page</em>
+</p>
 
 
 ## License
