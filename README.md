@@ -1,9 +1,8 @@
+<h1 align="center">
+  LibraSys - Library Management System
+</h1>
 
-
-![image](https://github.com/gtm20/LibraSys/assets/115064011/51ad55cb-e9cf-4837-85be-189f2af587b3)
-
-
-# LibraSys - Library Management System
+<img src="https://github.com/gtm20/LibraSys/assets/115064011/51ad55cb-e9cf-4837-85be-189f2af587b3">
 
 ## Overview
 
@@ -58,43 +57,28 @@ LibraSys is a comprehensive Library Management System designed to streamline the
 </p>
 
 <p align="center">
+<img src="https://github.com/gtm20/LibraSys/assets/115064011/28f97b40-3fe3-420f-9aee-a1618dd56afd">
+
+</p>
+
+<p align="center">
 <img src="https://github.com/gtm20/LibraSys/assets/115064011/7cab68c1-05cb-435c-ad45-814c5f9e1725">
   
  <br>
   <em>Librarian Page</em>
 </p>
 
-<br>
-<p align="center">
-<img src="https://github.com/gtm20/LibraSys/assets/115064011/28f97b40-3fe3-420f-9aee-a1618dd56afd">
 
-</p>
-<br>
+![image](https://github.com/gtm20/LibraSys/assets/115064011/008db7d3-ab0d-431a-8803-a9ae6f643ba0)
 
-<p align="center">
-<img src="https://github.com/gtm20/LibraSys/assets/115064011/32fc8009-c315-45fb-920c-931c7811a595">
-</p>
-<p align="center"><img src="https://github.com/gtm20/LibraSys/assets/115064011/e3d64824-7013-452f-b152-ad5ba89ac363">
-</p>
 
-<p align="center">
-<img src="https://github.com/gtm20/LibraSys/assets/115064011/617dd5be-e78c-4e10-8370-11c5b6b8b123">
-</p>
-<p align="center">
-<img src="https://github.com/gtm20/LibraSys/assets/115064011/cdfe86ed-5edc-4606-b7d4-bbff453d3fb2">
-</p>
-<p align="center">
-<img src="https://github.com/gtm20/LibraSys/assets/115064011/082cb3ea-d6bb-4a8e-acd9-b47f3bd7b623">
-</p>
-<p align="center">
-<img src="https://github.com/gtm20/LibraSys/assets/115064011/b8142226-07cb-4915-ae59-f5098fa294fd">
-</p>
-<p align="center">
-<img src="https://github.com/gtm20/LibraSys/assets/115064011/d2d92e57-7a08-42a1-aa7d-2e3368167785">
-</p>
-<p align="center">
-<img src="https://github.com/gtm20/LibraSys/assets/115064011/0253c5ee-c12a-4471-8ce2-a5040fe49243">
-</p>
+
+![image](https://github.com/gtm20/LibraSys/assets/115064011/047d080f-70a1-4d9e-b1d6-e108b7d0474d)
+
+![Screenshot 2024-01-18 224158](https://github.com/gtm20/LibraSys/assets/115064011/3f61cb6e-c31f-41c8-b352-2912a7a04e38)
+
+![image](https://github.com/gtm20/LibraSys/assets/115064011/93db833a-977f-4272-a54e-f6209f33680e)
+![image](https://github.com/gtm20/LibraSys/assets/115064011/d03442c9-7bd3-4a7c-88a3-83204e220e31)
 
 
 
